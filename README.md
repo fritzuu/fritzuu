@@ -59,8 +59,10 @@ Saya adalah mahasiswa **Universitas Sebelas Maret (UNS)** yang memiliki ketertar
 
 ### 🐍 Contribution Snake
 
+### 🐍 Contribution Snake
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/fritzuu/fritzuu/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/fritzuu/fritzuu/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
