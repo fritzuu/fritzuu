@@ -1,82 +1,143 @@
-# Hi there 👋 I'm Revan Zhafran
+# Revan Zhafran
+
+### Informatics Student @ Universitas Sebelas Maret • Full Stack Developer • Backend Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Backend+Enthusiast;Android+Developer;Problem+Solver" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Products+That+Solve+Real+Problems;Full+Stack+Developer;Backend+Engineering+Enthusiast;Android+Developer;Always+Learning+%26+Shipping" />
 </p>
 
 ---
 
-### 💫 About Me
+## About Me
 
-Saya adalah mahasiswa **Universitas Sebelas Maret (UNS)** yang memiliki ketertarikan pada **Web Development, Backend Engineering, dan Mobile Development**. Saya suka membangun aplikasi yang bersih, scalable, dan memiliki pengalaman pengguna yang baik.
+I'm an Informatics student at **Universitas Sebelas Maret (UNS)** with a strong interest in building scalable digital products.
 
-* 🔭 Saat ini fokus pada **Backend Development & Full Stack Projects**
-* 🌱 Sedang mendalami **Laravel, React, System Design, dan Software Architecture**
-* 🤝 Terbuka untuk kolaborasi pada **Open Source Project** atau project menarik lainnya
-* 💬 Tanya saya tentang **Web Development, API Integration, Backend, Android**
-* ⚡ Fun fact: **Bisa debugging berjam-jam ternyata masalahnya cuma titik koma 😅**
+My primary focus is on:
+
+- Backend Engineering
+- Full Stack Development
+- Android Development
+- System Design
+- Software Architecture
+
+Currently exploring how modern software systems, AI, and automation can be combined to create impactful solutions.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Current Focus
+
+```txt
+Backend Development      ████████████████ 95%
+Laravel & PHP            ███████████████  90%
+Android Development      ██████████████   85%
+Database Design          ██████████████   85%
+System Design            ████████████     75%
+React                    ██████████       65%
+```
+
+---
+
+## Tech Stack
 
 <p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,java,react,laravel,nodejs,express,mysql,mongodb,git,github,vscode,androidstudio,postman,figma"/>
-</a>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,java,js,nodejs,express,react,mysql,mongodb,git,github,vscode,androidstudio,figma,postman&perline=8"/>
+
 </p>
 
 ---
 
-### 🚀 Experience
+## Professional Experience
 
-**Full Stack Web Developer & Android Developer Intern — UGM**
+### Full Stack Developer & Android Developer Intern
+**Universitas Gadjah Mada (UGM)**
 
-* Mengembangkan frontend dan backend aplikasi web
-* Integrasi REST API dan pengembangan fitur
-* Berkontribusi pada project Rumah Korea Edu
-* Mengembangkan project Fakultas Kehutanan UGM
-* Membantu pengembangan dan perbaikan sistem akademik
+- Developed frontend and backend web applications
+- Built and integrated REST APIs
+- Contributed to Rumah Korea Edu platform
+- Developed systems for the Faculty of Forestry
+- Improved existing academic information systems
 
 ---
 
-### 📊 GitHub Statistics
+## Featured Projects
+
+### Circle of Friend Finder
+Social network analysis application built with Java.
+
+**Implemented:**
+
+- Graph
+- BFS Shortest Path
+- Disjoint Set
+- Sorting Algorithms
+- Community Detection
+
+---
+
+### Todo Management System
+
+Full Stack task management platform featuring:
+
+- Authentication
+- CRUD Tasks
+- Dark Mode
+- Calendar Integration
+- Responsive UI
+
+---
+
+## GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fritzuu&show_icons=true&theme=tokyonight&rank_icon=github"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fritzuu&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritzuu&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritzuu&layout=compact&hide_border=true&theme=transparent"/>
 
 </p>
 
+---
+
+## Activity Graph
+
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fritzuu&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fritzuu&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
+---
 
-
-
-### 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
+
 <img src="https://raw.githubusercontent.com/fritzuu/fritzuu/output/github-contribution-grid-snake-dark.svg"/>
+
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## Leadership & Community
+
+- Organizing Committee Experience
+- Leadership Development Enthusiast
+- Open Source Learner
+- Collaborative Team Player
+
+---
+
+## Connect
 
 <p align="center">
 
 <a href="mailto:revanalifiandev@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://instagram.com/rvnaz_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-181717?style=for-the-badge&logo=instagram"/>
 </a>
 
 </p>
@@ -85,14 +146,6 @@ Saya adalah mahasiswa **Universitas Sebelas Maret (UNS)** yang memiliki ketertar
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=fritzuu&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
-<p align="center">
-
-<i>"Building solutions, learning continuously, and creating impact through technology."</i>
-
-⭐ Thanks for visiting my profile!
+Building software with purpose.
 
 </p>
