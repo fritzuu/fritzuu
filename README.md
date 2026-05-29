@@ -1,134 +1,168 @@
 # Revan Zhafran
 
-### Informatics Student @ Universitas Sebelas Maret • Full Stack Developer • Backend Engineer
+### Backend Engineer • Android Developer • Informatics Student @ Universitas Sebelas Maret
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Products+That+Solve+Real+Problems;Full+Stack+Developer;Backend+Engineering+Enthusiast;Android+Developer;Always+Learning+%26+Shipping" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Software+That+Solves+Real+Problems;Backend+Engineering+Enthusiast;Android+Developer+with+Kotlin;Full+Stack+Developer;Always+Learning+Always+Building" />
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm an Informatics student at **Universitas Sebelas Maret (UNS)** with a strong interest in building scalable digital products.
+I'm an Informatics student at **Universitas Sebelas Maret (UNS)** passionate about building impactful software solutions.
 
-My primary focus is on:
+My interests include:
 
-- Backend Engineering
-- Full Stack Development
-- Android Development
-- System Design
-- Software Architecture
+- ⚙️ Backend Engineering
+- 📱 Android Development
+- 🌐 Full Stack Development
+- 🏗️ System Design & Software Architecture
+- 🤖 AI-Powered Applications
 
-Currently exploring how modern software systems, AI, and automation can be combined to create impactful solutions.
-
----
-
-## Current Focus
-
-```txt
-Backend Development      ████████████████ 95%
-Laravel & PHP            ███████████████  90%
-Android Development      ██████████████   85%
-Database Design          ██████████████   85%
-System Design            ████████████     75%
-React                    ██████████       65%
-```
+I enjoy transforming ideas into reliable, scalable, and user-friendly software products.
 
 ---
 
-## Tech Stack
+## 🚀 Current Projects
 
-<p align="center">
+### 🏫 SARS Project
 
-<img src="https://skillicons.dev/icons?i=php,laravel,java,js,nodejs,express,react,mysql,mongodb,git,github,vscode,androidstudio,figma,postman&perline=8"/>
+**Smart Academic Room Scheduler**
+
+A room scheduling system developed for the Informatics Department of Universitas Sebelas Maret to streamline classroom and laboratory reservation management.
+
+#### Features
+
+- Room reservation management
+- Schedule conflict detection
+- Real-time availability tracking
+- Role-based access control
+- Academic schedule integration
+- Modern responsive dashboard
+
+#### Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=laravel,react,postgresql,tailwind"/>
+
+</p>
+
+Additional Services:
+
+- Supabase
+- REST API
+- Authentication & Authorization
+
+---
+
+### 📝 Note Manager
+
+Modern Android note-taking application built using Kotlin and Jetpack Compose.
+
+#### Features
+
+- Material 3 Design
+- Dark & Light Theme
+- Category Management
+- Search Notes
+- Local Storage
+- Smooth User Experience
+
+#### Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio"/>
+
+</p>
+
+Architecture:
+
+- MVVM
+- Jetpack Compose
+- Navigation Compose
+- Room Database
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,java"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind"/>
+
+</p>
+
+### Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
 
 </p>
 
 ---
 
-## Professional Experience
+## 💼 Experience
 
-### Full Stack Developer & Android Developer Intern
+### Full Stack Web Developer & Android Developer Intern
 **Universitas Gadjah Mada (UGM)**
 
 - Developed frontend and backend web applications
-- Built and integrated REST APIs
+- Integrated REST APIs and backend services
 - Contributed to Rumah Korea Edu platform
 - Developed systems for the Faculty of Forestry
-- Improved existing academic information systems
+- Improved and maintained academic information systems
 
 ---
 
-## Featured Projects
+## 🌱 Currently Learning
 
-### Circle of Friend Finder
-Social network analysis application built with Java.
-
-**Implemented:**
-
-- Graph
-- BFS Shortest Path
-- Disjoint Set
-- Sorting Algorithms
-- Community Detection
+- Advanced Backend Architecture
+- System Design
+- Software Scalability
+- Cloud Technologies
+- AI Integration in Applications
 
 ---
 
-### Todo Management System
-
-Full Stack task management platform featuring:
-
-- Authentication
-- CRUD Tasks
-- Dark Mode
-- Calendar Integration
-- Responsive UI
-
----
-
-## GitHub Analytics
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fritzuu&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fritzuu&layout=compact&hide_border=true&theme=transparent"/>
-
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fritzuu&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-
 <img src="https://raw.githubusercontent.com/fritzuu/fritzuu/output/github-contribution-grid-snake-dark.svg"/>
-
 </p>
 
 ---
 
-## Leadership & Community
-
-- Organizing Committee Experience
-- Leadership Development Enthusiast
-- Open Source Learner
-- Collaborative Team Player
-
----
-
-## Connect
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -146,6 +180,14 @@ Full Stack task management platform featuring:
 
 <p align="center">
 
-Building software with purpose.
+<img src="https://komarev.com/ghpvc/?username=fritzuu&label=Profile+Views&color=0891b2&style=flat"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"Building reliable software, solving real problems, and continuously improving as an engineer."</i>
 
 </p>
